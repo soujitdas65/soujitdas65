@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soujitdas65
 - 👀 I’m interested in Coding, Machine Learning, Artificial Intelligence
-- 🌱 I’m currently learning JAVA Advanced
+- 🌱 I’m currently learning C++ Advanced
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on Linkedin Soujit Das
 
